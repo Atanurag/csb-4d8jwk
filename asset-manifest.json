@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://atanurag.github.io/csb-4d8jwk/static/js/main.bad5630a.chunk.js",
+    "main.js.map": "https://atanurag.github.io/csb-4d8jwk/static/js/main.bad5630a.chunk.js.map",
+    "runtime-main.js": "https://atanurag.github.io/csb-4d8jwk/static/js/runtime-main.c3e92846.js",
+    "runtime-main.js.map": "https://atanurag.github.io/csb-4d8jwk/static/js/runtime-main.c3e92846.js.map",
+    "static/js/2.8f15ae2e.chunk.js": "https://atanurag.github.io/csb-4d8jwk/static/js/2.8f15ae2e.chunk.js",
+    "static/js/2.8f15ae2e.chunk.js.map": "https://atanurag.github.io/csb-4d8jwk/static/js/2.8f15ae2e.chunk.js.map",
+    "index.html": "https://atanurag.github.io/csb-4d8jwk/index.html",
+    "static/js/2.8f15ae2e.chunk.js.LICENSE.txt": "https://atanurag.github.io/csb-4d8jwk/static/js/2.8f15ae2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e92846.js",
+    "static/js/2.8f15ae2e.chunk.js",
+    "static/js/main.bad5630a.chunk.js"
+  ]
+}
